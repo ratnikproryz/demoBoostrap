@@ -1,0 +1,32 @@
+.bg{
+    background-color: #f5f5f5;
+}
+.text{
+    text-align: center;
+}
+.col-sm-2, .col-sm-3, .col-sm-4, .col-sm-8, .col-sm-6{
+    border: 5px solid white;
+}
+.center{
+    text-align: center;
+}
+.right{
+    clear: both;
+    float: right;
+}
+.nav-item:hover{
+    background-color: black;
+    counter-reset: white;
+}
+/* .panel-body-height{
+    height: 30px;
+} */
+.border-blue{
+    border: 1px solid blue;
+}
+.border-red{
+    border: 1px solid rgb(202, 134, 122);
+}
+.border-green{
+    border: 1px solid rgb(180, 201, 180);
+}
